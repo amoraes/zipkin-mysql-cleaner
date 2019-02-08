@@ -17,3 +17,6 @@ Threshold examples:
 - 7d deletes anything older than 7 days
 - 2h deletes anything older than 2 hours
 - 5m deletes anything older than 5 minutes
+
+## Docker image
+amoraes/zipkin-mysql-cleaner
